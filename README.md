@@ -9,4 +9,5 @@
 
 <font size="6" align="center">
 <p>2. <b> Датасет акций и их показатели.</b> Необходим датасет акций и их основных показателей, будем парсить по тикерам с сайта <a href="https://finviz.com/" target="_blank">finviz</a>. Спарсим индекс <a href=" https://spbexchange.ru/ru/stocks/index/SPB100/" target="_blank">СПБ100</a> для обучения и s&p500 для валидации модели
-</font>.</p> 
+</font>. Код представлен в папке <a href="https://github.com/otvet4ikov/Recommendation_system/tree/master/parsers" target="_blank">parsers</a> </p> 
+
